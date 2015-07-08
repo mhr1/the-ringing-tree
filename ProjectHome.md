@@ -1,0 +1,1 @@
+A software project for the generation and manipulation of consensus trees. The focus of this project is primarily on phylogenetics.
