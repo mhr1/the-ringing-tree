@@ -81,7 +81,7 @@ int main(int argc, char** argv)
 		term = atof(strtok(NULL, "; \t\n\r")); 
 		volume = atof(strtok(NULL, "; \t\n\r"));
 		
-		cout << close << endl;
+		cout << term << endl;
 		
 		if(i++ > 5)break;
 	}
